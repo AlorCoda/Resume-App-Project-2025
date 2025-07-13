@@ -5,8 +5,8 @@ on:
       - main
 
 env:
-  AWS_APP_NAME: test  
-  AWS_ENV_NAME: test-env
+  AWS_APP_NAME: resume-app  
+  AWS_ENV_NAME: resume-app-env
 
 jobs:
   deploy:
